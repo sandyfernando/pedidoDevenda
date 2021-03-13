@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/03/12 14:44:39.829,=C:\Users\Desenvolvedor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 14:46:54.048,C:\projeto\PedidoVenda\PedidoVendaU.dfm=C:\Users\Desenvolvedor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/12 14:46:54.048,C:\projeto\PedidoVenda\PedidoVendaU.pas=C:\Users\Desenvolvedor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 14:47:06.223,C:\projeto\PedidoVenda\PedidoVenda.dproj=C:\Users\Desenvolvedor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/12 14:53:26.990,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 14:54:21.696,C:\projeto\PedidoVenda\DMU.dfm=C:\projeto\PedidoVenda\Unit1.dfm</Transaction>
+    <Transaction>2021/03/12 14:54:21.696,C:\projeto\PedidoVenda\DMU.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 15:53:22.555,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 15:57:07.035,C:\projeto\PedidoVenda\DAO\PedidoDAO.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 16:17:52.797,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 16:23:04.984,C:\projeto\PedidoVenda\Modelo\PedidoU.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 17:11:18.597,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 17:12:29.631,C:\projeto\PedidoVenda\controller\PedidoController.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 18:09:54.006,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 18:14:39.180,C:\projeto\PedidoVenda\controller\PedidoProdutoController.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 19:14:39.688,=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+    <Transaction>2021/03/12 19:17:40.357,C:\projeto\PedidoVenda\DAO\PedidoProdutoDAO.pas=C:\projeto\PedidoVenda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

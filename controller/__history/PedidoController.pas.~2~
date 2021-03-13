@@ -1,0 +1,17 @@
+unit PedidoController;
+
+interface
+
+uses
+  FireDAC.Comp.Client, PedidoU;
+type
+  TPedidoController = class
+    private
+
+    public
+      procedure setPedido(const qry: TFDQuery; var pedido: TPedido);
+  end;
+
+implementation
+
+end.

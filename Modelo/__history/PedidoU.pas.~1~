@@ -1,0 +1,18 @@
+unit PedidoU;
+
+interface
+type
+  TPedido = Class
+    private
+    FNumeroPedido: Integer;
+
+    public
+
+    published
+      property numeroPedido: Integer read FNumeroPedido write FNumeroPedido;
+  End;
+
+
+implementation
+
+end.

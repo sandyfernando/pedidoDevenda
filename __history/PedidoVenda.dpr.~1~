@@ -1,0 +1,14 @@
+program PedidoVenda;
+
+uses
+  Vcl.Forms,
+  PedidoVendaU in 'PedidoVendaU.pas' {PedidoVendaF};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPedidoVendaF, PedidoVendaF);
+  Application.Run;
+end.

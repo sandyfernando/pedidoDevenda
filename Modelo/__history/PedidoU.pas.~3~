@@ -1,0 +1,24 @@
+unit PedidoU;
+
+interface
+
+uses
+  System.SysUtils;
+type
+  TPedido = Class
+    private
+    FNumeroPedido: Integer;
+    FDataEmissao: Date;
+
+    public
+
+    published
+      property numeroPedido: Integer read FNumeroPedido write FNumeroPedido;
+      property dataEmissao: Date     read FDataEmissao  write FDataEmissao;
+      property
+  End;
+
+
+implementation
+
+end.

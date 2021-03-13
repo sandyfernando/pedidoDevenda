@@ -1,0 +1,34 @@
+unit PedidoProdutoController;
+
+interface
+
+uses
+  FireDAC.Comp.Client;
+type
+  TPedidoProdutoController = class
+    private
+
+    public
+      procedure setMenTablePedidoProduto(const qry: TFDQuery; const quantidade, vlrUnit: Currency;
+        var memTable: TFDMemTable);
+  end;
+
+implementation
+
+{ TPedidoProdutoController }
+
+procedure TPedidoProdutoController.setMenTablePedidoProduto(const qry: TFDQuery;
+  const quantidade, vlrUnit: Currency; var memTable: TFDMemTable);
+begin
+  memTable.Append;
+
+  memTable.FieldByName('CODPRODUTO').AsInteger := qry.FieldByName('CODIGO').AsInteger;
+  memTable.FieldByName('DESCPRODUTO').AsInteger := qry.FieldByName('CODIGO').AsInteger;
+  memTable.FieldByName('CODPRODUTO').AsInteger := qry.FieldByName('CODIGO').AsInteger;
+  memTable.FieldByName('CODPRODUTO').AsInteger := qry.FieldByName('CODIGO').AsInteger;
+  memTable.FieldByName('CODPRODUTO').AsInteger := qry.FieldByName('CODIGO').AsInteger;
+
+  memTable.Post;
+end;
+
+end.
